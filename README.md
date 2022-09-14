@@ -10,7 +10,7 @@
 | 20/0038141  | Gustavo Duarte Moreira |
 
 ## Sobre 
-O projeto consiste na criação de um labirinto utilizando a técnica de busca em profundidade(DFS) para a criação do labirinto que é criado aleatoreamente e o algo de busca A* para encontrar o caminho mais curto entre dois pontos.
+O projeto consiste na criação de um labirinto utilizando a técnica de busca em profundidade(DFS) para a criação do labirinto que é criado aleatoreamente e o algo de busca A* para encontrar o caminho mais curto entre dois pontos. O algoritmo de busca A* é uma combinação do BFS e do algoritmo de Dijkstra, utilizados para encontrar o caminho mais curto entre dois pontos.
 
 ## Screenshots
 
